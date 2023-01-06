@@ -1,6 +1,8 @@
 # rshiny-k8s
 R Shiny App on Kubernetes
 
+Following setup in https://learn.microsoft.com/en-us/azure/aks/ingress-tls?tabs=azure-cli
+
 ```
 NAMESPACE=ingress-basic
 
